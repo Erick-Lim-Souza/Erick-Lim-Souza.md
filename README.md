@@ -17,4 +17,15 @@
 - Infraestrutura e Cloud: AWS, gerenciamento de redes e segurança
 - Gestão e Liderança: Experiência na supervisão de equipes técnicas
 - Colaboração: Apaixonado por contribuir com a comunidade de desenvolvedores
-- Vamos nos conectar e trocar ideias! 🚀
+
+![github_39686](https://github.com/user-attachments/assets/18497705-86f5-4764-9dc2-ccafcfaa5d8d)
+
+https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_168666.png
+
+
+
+
+
+###Vamos nos conectar e trocar ideias! 🚀
+
+
