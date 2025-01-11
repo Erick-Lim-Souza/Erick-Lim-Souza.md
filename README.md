@@ -11,7 +11,7 @@
 
 - Aqui no GitHub, compartilho projetos, exploro novas tecnologias e busco colaborar em iniciativas que ajudem a criar soluções inovadoras e impactantes.
 
-H1 Habilidades e Interesses (Underline)
+#Habilidades e Interesses
 
 - Programação e Automação: JavaScript, Cypress, Robot Framework
 - Infraestrutura e Cloud: AWS, gerenciamento de redes e segurança
