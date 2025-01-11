@@ -1,7 +1,7 @@
 # Erick-Lim-Souza.md
 
 
-##Sobre mim
+#Sobre mim
 
 - Olá! Eu sou Erick de Lima Souza, apaixonado por tecnologia e aprendizado contínuo. Minha trajetória profissional de 13 anos começou como Auxiliar de Informática, e hoje atuo como Supervisor de Suporte Técnico, liderando equipes, analisando atendimentos e solucionando -problemas em ERP e bancos de dados.
 
@@ -11,7 +11,8 @@
 
 - Aqui no GitHub, compartilho projetos, exploro novas tecnologias e busco colaborar em iniciativas que ajudem a criar soluções inovadoras e impactantes.
 
-##Habilidades e Interesses
+H1 Habilidades e Interesses (Underline)
+
 - Programação e Automação: JavaScript, Cypress, Robot Framework
 - Infraestrutura e Cloud: AWS, gerenciamento de redes e segurança
 - Gestão e Liderança: Experiência na supervisão de equipes técnicas
